@@ -7033,3 +7033,8 @@
 .scroll-top i {
   padding: 14px;
 }
+
+.country-icon-flag {
+  width: 25px;
+  height: 18px;
+}

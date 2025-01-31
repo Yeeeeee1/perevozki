@@ -446,6 +446,9 @@ a:hover {
 .slider .carousel-item.slider-three {
   background-image: url("../img/slider/slider-3.jpg"); /*edit image*/
 }
+.slider .carousel-item.slider-four {
+  background-image: url("../img/slider/slider-4.jpg"); /*edit image*/
+}
 .slider .carousel-caption .slider-caption-box {
   position: relative;
   background-color: rgba(244, 70, 71, 0.9);
