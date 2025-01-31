@@ -60,8 +60,18 @@
   .footer-links li:first-child a {
     padding-left: 8px;
   }
+
+  .slider .carousel-caption .slider-caption-box {
+    width: 165px;
+    padding: 10px;
+  }
+
+  .slider .carousel-caption h3 {
+    font-size: 13px;
+  }
+
   .slider .carousel-caption h2 {
-    font-size: 30px;
+    font-size: 15px;
     line-height: 34px;
   }
   .comment-classic-group .comment-classic-group {
