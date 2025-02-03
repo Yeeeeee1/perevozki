@@ -605,7 +605,7 @@ a:hover {
 }
 .sidebar-list li a {
   display: flex;
-  font-size: 14px;
+  font-size: 15px;
   width: 100%;
   align-items: center;
   color: #fff;
@@ -1544,6 +1544,15 @@ a:hover {
 /* ===================================
 	15. Inner page title
 =================================== */
+.inner-page-title-area-rails {
+  background-image: url(../img/bg/inner-page-title-bg-3.jpg) !important;
+}
+.inner-page-title-area-air {
+  background-image: url(../img/bg/inner-page-title-bg-2.jpg) !important;
+}
+.inner-page-title-area-sea {
+  background-image: url(../img/bg/inner-page-title-bg-1.jpg) !important;
+}
 .inner-page-title-area {
   background-image: url(../img/bg/inner-page-title-bg.jpg);
   background-repeat: no-repeat;
