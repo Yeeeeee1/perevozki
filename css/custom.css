@@ -542,6 +542,11 @@ a:hover {
   border-radius: 6px;
 }
 .service-item .description {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 265px;
   padding: 20px;
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 6px;
@@ -1994,4 +1999,14 @@ a:hover {
 .privacy-policy-single-content ul li i {
   color: #f44647;
   padding-right: 6px;
+}
+
+.service-list {
+  padding: 0px 30px 30px;
+  font-size: 15px;
+}
+
+.service-list li {
+  list-style: disc;
+  list-style-type: disc;
 }
