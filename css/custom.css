@@ -577,8 +577,8 @@ a:hover {
 }
 .service-item h6 {
   color: #fff;
-  font-size: 22px;
-  font-weight: 400;
+  font-size: 21px;
+  font-weight: 600;
   margin-bottom: 10px;
 }
 .service-item:hover .description {
@@ -2002,6 +2002,7 @@ a:hover {
 }
 
 .service-list {
+  color: #fff;
   padding: 0px 30px 30px;
   font-size: 15px;
 }
@@ -2009,4 +2010,12 @@ a:hover {
 .service-list li {
   list-style: disc;
   list-style-type: disc;
+}
+
+.description p {
+  color: #fff !important;
+}
+
+.service-content p {
+  color: #fff;
 }
