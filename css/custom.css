@@ -2021,6 +2021,7 @@ a:hover {
 }
 
 .license-area {
+  flex-wrap: wrap;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -2048,5 +2049,12 @@ ol li p {
 }
 
 .license-img {
-  width: 30%;
+  /* width: 30%; */
+}
+
+@media screen and (max-width: 1117px) {
+  .license-desc {
+    margin: 20px !important;
+    width: 100%;
+  }
 }
